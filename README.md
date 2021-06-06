@@ -1,4 +1,6 @@
 # ImmoScout24Checker
+
+ABANDONED BECAUSE IMMOSCOUT24 CHANGED THEIR API.
  
 This script will periodically parse a Immobilienscout24 search URL and will tell you if new exposes show up through a Telegram bot message.
 
